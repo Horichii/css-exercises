@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.normalClass {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #f7a0e2;
+}
+
+#oneID {
+    font-size: 36px;
+    color: blue;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#anotherID {
+    font-weight: bold;
+    background-color: rgb(128, 255, 128);
+}
